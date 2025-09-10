@@ -11,7 +11,12 @@ Interest areas:
 GitHub statistics
 ---
 
-<a href=https://github.com/anuraghazra/github-readme-stats>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acobianiregui&layout=compact&hide=Makefile&theme=radical">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=acobianiregui&logo=true&theme=radical&hide_rank=true" />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acobianiregui&layout=compact&hide=Makefile&theme=radical" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=acobianiregui&logo=true&theme=radical&hide_rank=true" />
+  </a>
+</div>
