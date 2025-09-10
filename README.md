@@ -1,16 +1,17 @@
-## Hi there 👋
+# Anton Cobian Iregui
 
-<!--
-**acobianiregui/acobianiregui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Telecommunication Technologies Engineer ($4^{th}$ year)<br>
+Exchange Student at Georgia Institute of Technology
 
-Here are some ideas to get you started:
+Interest areas:
+- Signal Processing 📡〰️🖥️
+- Embbeded systems 🤖🏽📱
+- Telecommunications & Networks 🌐📶
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GitHub statistics
+---
+
+<a href=https://github.com/anuraghazra/github-readme-stats>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acobianiregui&layout=compact&hide=Makefile&theme=radical">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=acobianiregui&logo=true&theme=radical&hide_rank=true" />
+</a>
