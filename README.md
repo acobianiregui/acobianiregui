@@ -13,10 +13,10 @@ GitHub statistics
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acobianiregui&layout=compact&hide=Makefile,HTML,Tex,Jupyter%20Notebook&theme=radical" />
+    <img height="200" alt="Top langs" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=acobianiregui&layout=compact&hide=Makefile,HTML,Tex,Jupyter%20Notebook&theme=radical" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=acobianiregui&logo=true&theme=radical&hide_rank=true" />
+    <img height="200" alt="Stats" src="https://github-readme-stats-extended.vercel.app/api?username=acobianiregui&logo=true&theme=radical&hide_rank=true" />
   </a>
 </div>
